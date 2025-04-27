@@ -1,7 +1,7 @@
 // Размер зоны для игроков на время подготовки Работает как: prepareZoneSize + opforPrepareZonesizeAdd
 prepareZoneSize = 150;
 opforPrepareZonesizeAdd = 100; 
-blueforPrepareZonesizeAdd = 100;
+blueforPrepareZonesizeAdd = 150;
 
 // Противоборствующие стороны ("WEST", "EAST", "INDEPENDENT")
 blueforSide = "WEST";

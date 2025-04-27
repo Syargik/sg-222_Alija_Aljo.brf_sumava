@@ -28,7 +28,7 @@ missionNamespace setVariable ["water2", 0, true];
 
 		if ((water1 == 2) && (water2 == 2)) then {
 			srv_triggerFinished = true;
-			["outro_BSN.sqf"] remoteexec ["execvm", 2];
+			["outro_BSN.sqf"] remoteexec ["execvm", -2];
 			sleep 15;
 			["Боснийцы уничтожили водонапорные вышки! Победа Атаки!", east] call a3a_fnc_endMission;
 		};

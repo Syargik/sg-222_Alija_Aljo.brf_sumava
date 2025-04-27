@@ -9,7 +9,7 @@ _unit addBackpack "B_Carryall_Base";
 _unit addItem "rhs_mag_30Rnd_556x45_M855A1_Stanag";
 _unit addWeapon "rhs_weap_m16a3_imod_M203";
 _unit addPrimaryWeaponItem "mkk_hlc_muzzle_SF3P_556";
-_unit addPrimaryWeaponItem "rhsusf_acc_eotech_xps3";
+_unit addPrimaryWeaponItem "mkk_CUP_optic_Elcan_reflex";
 
 _unit addWeapon "Binocular";
 
