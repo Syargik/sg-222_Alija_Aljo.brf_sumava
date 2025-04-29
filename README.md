@@ -1,3 +1,5 @@
+[IMAGES](https://drive.google.com/drive/folders/1LMBlbwFNLhVGypPlZZ6MxhhNfQurYAX0?usp=sharing)
+
 v1
 
 init
@@ -11,3 +13,4 @@ v2
 5. 112 заряд изменен с RHS на ванильный
 6. Добавлено снаряжение в рем. машины
 7. Добавлены мед. палатки по всему ТВД
+8. Добавлены скриншоты форм
