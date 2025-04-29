@@ -24,7 +24,7 @@ for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};
 
 // Backpack with items:
-_unit addBackpack "asip_a_02_cb_r";
+_unit addBackpack "csog_p8_r";
 
 _unit addHeadgear "rhsusf_opscore_rg_cover_pelt";
 

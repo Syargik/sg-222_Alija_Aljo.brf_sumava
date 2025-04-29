@@ -42,12 +42,6 @@ missionNamespace setVariable ["BLUFORheadgears", [
 	"acp_IT_Vegetato_core_H_HelmetB_IT_Vegetato"
 ] call BIS_fnc_selectRandom];
 
-missionNamespace setVariable ["OPFORheadgears", [
-    "rhssaf_helmet_m97_olive_nocamo",
-    "rhssaf_helmet_m97_olive_nocamo_black_ess",
-	"rhssaf_helmet_m97_olive_nocamo_black_ess_bare"
-] call BIS_fnc_selectRandom];
-
 missionNamespace setVariable ["SPNuniforms", [
     "CUP_I_B_PMC_Unit_39",
     "CUP_I_B_PMC_Unit_42",
