@@ -1,5 +1,3 @@
-_headgear = missionNamespace getVariable "OPFORheadgears";
-
 // SolidGames
 
 _unit addBackpack "B_Carryall_Base";
@@ -18,16 +16,16 @@ removeBackpack _unit;
 _unit forceAddUniform "LOP_U_ISTS_Fatigue_26";
 
 // Vest with items:
-_unit addVest "tfa_cpc_Fastbelt_coy_empty";
+_unit addVest "CUP_Vest_RUS_6B45_Sh117_Green";
 for '_i' from 1 to 5 do { _unit addItemToVest 'rhs_10Rnd_762x54mmR_7N14';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'mkk_10Rnd_762x54mmR_t46';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
 
 // Backpack with items:
-_unit addBackpack "fatpack_coy";
+_unit addBackpack "B_FieldPack_green_F";
 
-_unit addHeadgear _headgear;
+_unit addHeadgear "rhsgref_helmet_pasgt_olive";
 
 _unit linkItem "ItemMap";
 _unit linkItem "ItemCompass";

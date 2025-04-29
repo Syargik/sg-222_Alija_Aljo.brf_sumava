@@ -25,7 +25,7 @@ _veh addItemcargoGlobal ['SatchelCharge_Remote_Mag', 7];
 
 _veh addItemCargoGlobal ["ace_mag_9m113", 2];
 
-_veh addItemcargoGlobal ['rhssaf_helmet_m97_olive_nocamo', 2];
+_veh addItemcargoGlobal ['rhsgref_helmet_pasgt_olive', 2];
 _veh additemcargoGlobal ['ToolKit', 1];
 
-_veh addBackpackCargoGlobal ['fatpack_coy', 2];
+_veh addBackpackCargoGlobal ['B_FieldPack_green_F', 2];

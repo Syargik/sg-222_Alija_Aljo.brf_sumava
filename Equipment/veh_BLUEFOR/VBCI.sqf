@@ -12,8 +12,8 @@ _veh addItemCargoGlobal ['ACE_splint', 5];
 _veh addItemcargoGlobal ['rhs_mag_30Rnd_556x45_M855A1_PMAG', 20];
 _veh addItemcargoGlobal ['rhs_mag_30Rnd_556x45_M855A1_PMAG_Tracer_Red', 10];
 _veh addItemcargoGlobal ['rhsusf_20Rnd_762x51_m118_special_Mag', 10];
-_veh addItemcargoGlobal ['mkk_50Rnd_762x51_M80_MG3_drum', 4];
-_veh addItemcargoGlobal ['mkk_50Rnd_762x51_M62_MG3_alltracers_drum', 4];
+_veh addItemcargoGlobal ['mkk_100Rnd_Mg3_762x51', 4];
+_veh addItemcargoGlobal ['mkk_100Rnd_Mg3_762x51_Tracer', 4];
 
 _veh addItemcargoGlobal ['rhs_mag_m67', 15];
 _veh addItemcargoGlobal ['rhs_mag_an_m8hc', 15];

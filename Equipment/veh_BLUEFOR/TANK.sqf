@@ -24,4 +24,4 @@ _veh addItemcargoGlobal ['acp_IT_Vegetato_modern_west_H_HelmetFASTMT_Cover_IT_Ve
 _veh additemcargoGlobal ['ToolKit', 1];
 
 _veh addBackpackCargoGlobal ['acp_IT_Vegetato_core_B_AssaultPackEnhanced_IT_Vegetato_insignia', 3];
-_veh addBackpackCargoGlobal ['TFAR_rt1523g_big_bwmod', 1];
+_veh addBackpackCargoGlobal ['mkk_Bag_Felin_45L_Radio', 1];

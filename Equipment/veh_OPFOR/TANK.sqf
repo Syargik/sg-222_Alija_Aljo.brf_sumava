@@ -17,7 +17,8 @@ _veh addItemcargoGlobal ['rhs_mag_an_m8hc', 10];
 
 _veh addItemCargoGlobal ["ace_mag_127x108mm_50", 4];
 
-_veh addItemcargoGlobal ['rhssaf_helmet_m97_olive_nocamo', 3];
+_veh addItemcargoGlobal ['rhsgref_helmet_pasgt_olive', 3];
 _veh additemcargoGlobal ['ToolKit', 1];
 
-_veh addBackpackCargoGlobal ['fatpack_coy', 3];
+_veh addBackpackCargoGlobal ['B_FieldPack_green_F', 3];
+_veh addBackpackCargoGlobal ['mkk_rt1523g_bwmod_RED', 1];

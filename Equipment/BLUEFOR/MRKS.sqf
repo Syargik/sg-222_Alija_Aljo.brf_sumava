@@ -20,7 +20,7 @@ removeBackpack _unit;
 _unit forceAddUniform _uniform;
 
 // Vest with items:
-_unit addVest "JCA_MCRP_V_CarrierRigKBT_01_recon_olive_F";
+_unit addVest "acp_IT_Vegetato_JCA_MCRP_JCA_MCRP_V_CarrierRigKBT_01_recon_IT_Vegetato_F";
 for '_i' from 1 to 5 do { _unit addItemToVest 'rhsusf_20Rnd_762x51_m118_special_Mag';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_m67';};
 for '_i' from 1 to 2 do { _unit addItemToVest 'rhs_mag_an_m8hc';};
