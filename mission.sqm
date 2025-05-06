@@ -12396,7 +12396,7 @@ class Mission
 					class Attributes
 					{
 						init="[this,""OPFOR"",""CREW""] call SerP_unitprocessor;" \n "this setVariable [""OPFORCrew"", true];";
-						description="1. Komandir posade М-84";
+						description="1. Komandir posade M-84";
 						isPlayable=1;
 						class Inventory
 						{
@@ -12449,7 +12449,7 @@ class Mission
 					class Attributes
 					{
 						init="[this,""OPFOR"",""CREW""] call SerP_unitprocessor;" \n "this setVariable [""OPFORCrew"", true];";
-						description="2. Mehaničar-vozač М-84";
+						description="2. Mehaničar-vozač M-84";
 						isPlayable=1;
 						class Inventory
 						{
@@ -12501,7 +12501,7 @@ class Mission
 					class Attributes
 					{
 						init="[this,""OPFOR"",""CREW""] call SerP_unitprocessor;" \n "this setVariable [""OPFORCrew"", true];";
-						description="3. Nišandžija-operater М-84";
+						description="3. Nišandžija-operater M-84";
 						isPlayable=1;
 						class Inventory
 						{
@@ -12568,7 +12568,7 @@ class Mission
 					class Attributes
 					{
 						init="[this,""OPFOR"",""CREW""] call SerP_unitprocessor;" \n "this setVariable [""OPFORCrew"", true];";
-						description="1. Komandir posade М-84";
+						description="1. Komandir posade M-84";
 						isPlayable=1;
 						class Inventory
 						{
@@ -12621,7 +12621,7 @@ class Mission
 					class Attributes
 					{
 						init="[this,""OPFOR"",""CREW""] call SerP_unitprocessor;" \n "this setVariable [""OPFORCrew"", true];";
-						description="2. Mehaničar-vozač М-84";
+						description="2. Mehaničar-vozač M-84";
 						isPlayable=1;
 						class Inventory
 						{
@@ -12674,7 +12674,7 @@ class Mission
 					class Attributes
 					{
 						init="[this,""OPFOR"",""CREW""] call SerP_unitprocessor;" \n "this setVariable [""OPFORCrew"", true];";
-						description="3. Nišandžija-operater М-84";
+						description="3. Nišandžija-operater M-84";
 						isPlayable=1;
 						class Inventory
 						{
