@@ -10,7 +10,7 @@ _unit addBackpack "B_Carryall_Base";
 _unit addItem "rhs_mag_30Rnd_556x45_M855A1_PMAG";
 _unit addWeapon "mkk_hlc_rifle_ACR_Carb_black";
 _unit addPrimaryWeaponItem "mkk_hlc_muzzle_SF3P_556";
-_unit addPrimaryWeaponItem "mkk_CUP_optic_Elcan_reflex";
+_unit addPrimaryWeaponItem "rhsusf_acc_eotech_xps3";
 
 _unit addItem "mkk_pzf3_tandem";
 _unit addWeapon "BWA3_PzF3";
